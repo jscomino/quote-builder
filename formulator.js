@@ -1,4 +1,3 @@
-// https://www.jqueryscript.net/form/JSON-Based-Form-Builder-with-jQuery-and-Bootstrap-FormForm.html
 var FormForm = (function($){
 	return function(wrapper, fields){
 
